@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some fact about me!
+-  I am a foodie!
+
+### key achievement
+- Iam a data Scientist
 
 ### More Information
 
